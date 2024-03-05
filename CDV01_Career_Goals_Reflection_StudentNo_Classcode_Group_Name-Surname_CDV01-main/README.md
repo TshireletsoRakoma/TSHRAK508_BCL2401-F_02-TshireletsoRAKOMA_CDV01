@@ -17,10 +17,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Tshireletso Rakoma
+- **Date:** 5 March 2024
+- **Current Role/Position:** CodeSpace Student
+- **Field of Interest:** Software Developer
 
 ### Part 1: Self-Assessment Reflection
 
@@ -65,50 +65,61 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
-    #In 2 years to Come i just want to see my self to be professional and already learning the other new coding language as well.
-    #mastering Front and End development
+    #In the next 2 years, I just want to see myself being a professional software developer and already learning the new coding languages as well.
+    #I want to master Front-End development.
 
     - Explain the rationale behind each goal.
-    #Ratinality behind each goal,is for me to grow my self and be  competent.
+      #Behind each goal, I want to see growth in myself and to be a competent software developer. 
+      #I also believe these goals will enhance my personal skills and contribute to personal development.
 2. **Long-term Goals** (3-5 years and beyond):
-    #i want to work my way up to become a senior software developer.
+    #I want to work my way up to become a senior software developer.
 
     - Outline your long-term career aspirations.
-    #To be resillent along the process of building my self to become a better version of my self in tech company.
+    #To be resillent along the process of building myself to become a better version of myself in a tech company.
+    #I want to see myself working for a big tech company.
 
     - Describe how these align with your interests and skills.
-    #With my skills I will be able to work in a tech Company and with hardwork I will get a management position. 
+    #With my skills I will be able to work in a tech Company and with hardwork, I believe I will get a management position. 
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
-    #setting attainable goals will be key to achieve things i wanna achieve.
+   #Setting attainable goals will be key to achieving my goals.
+   #Create an effective schedule.
 
     - Include any resources or support required.
-   #having access to internet will be a key for me as i will always make researches on website.
+   #Having access to the internet will be beneficial as I will conduct researches on websites.
+   #Joining different community forums like reddit which will help me in learning and enforcing my profiency in different tech stacks.
+   #Attending coding workshops so I can interact with different individuals and get to network with them.
 
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
-    #Completing my daily task will be a key for me to obtain my longterm goal.
+    #Completing my daily tasks
 
     - Consider additional skills, experiences, or qualifications needed.
     #Mastering Excel would be additional skills i need and studying futher for me to obtain advance qualifications.
+    #Opening up to cloud computing.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
-    #facing strong setbacks.
+     #Facing strong setbacks.
+     #Feeling like giving up at times.
+
     - Consider strategies to overcome these challenges.
     #I should always work even though i feel defeated by the challanges putting more effort and accepting the situation will take me futher.
+     #I'll often remind myself why I'm doing this to actually keep on going and not give up and motivate myself.
+
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
-    sharing my work through github and networking with other developers to get a recognition of what i do.
+     #Sharing my work through GitHub and networking with other developers to get recognition of what i do.
+     #Contributing to open source projects.
     
 
 
