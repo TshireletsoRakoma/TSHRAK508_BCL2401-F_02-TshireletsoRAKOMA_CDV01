@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Tshireletso
+- **Date: 05-March-2024
+- **Current Role/Position: Student. 
+- **Field of Interest: Software Developer 
 
 ### Part 1: Self-Assessment Reflection
 
